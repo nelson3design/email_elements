@@ -194,7 +194,7 @@ body {
 }
 
 .list .img img {
-    width: 100%;
+    width: 70%;
     height: auto;
     object-fit: cover;
     margin: auto;
